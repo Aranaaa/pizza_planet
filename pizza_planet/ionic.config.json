@@ -1,0 +1,7 @@
+{
+  "name": "pizza_planet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
